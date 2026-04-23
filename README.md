@@ -1,4 +1,4 @@
-### warning this could get you vac banned
+# warning this could get you vac banned
 
 first download the x64 version of this https://github.com/linuxgamer/DLL-Injector.
 
