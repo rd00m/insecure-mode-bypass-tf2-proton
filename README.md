@@ -9,3 +9,5 @@ lastly run this command in terminal bash -c "protontricks -c 'wine cmd /c \"cd /
 if you have any issues consult this guide https://github.com/linuxgamer/Amalgam-Linux/wiki
 
 the cpp file is basically the source code so you can use that for whatever people use that for
+
+Thank you so much to https://github.com/linuxgamer for actually makeing the bypass I just made it into a standalone file
