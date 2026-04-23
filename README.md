@@ -1,3 +1,5 @@
+### warning this could get you vac banned
+
 first download the x64 version of this https://github.com/linuxgamer/DLL-Injector.
 
 Then on the drive you installed tf2 onto go to /run/media/yourname/probally will be home/SteamLibrary/steamapps/compatdata/440/pfx/drive_c/
